@@ -1,0 +1,14 @@
+# filesystem cleanup
+ncdu
+
+# image viewer
+imv-x11
+
+# video player
+mpv
+
+# pdf viewer
+zathura
+
+# scan
+scanimage
