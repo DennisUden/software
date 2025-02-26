@@ -11,4 +11,33 @@ mpv
 zathura
 
 # scan
+sane-airscan
 scanimage
+
+# notifications
+dunst
+notify-send
+
+# keybinds
+sxhkd
+
+# screenlocker
+slock
+
+# image editor
+kolourpaint
+
+# audio manager
+pamixer
+
+# ftp
+filezilla
+
+# calculator
+qalc
+
+# RDP client
+remmina
+
+# screenshot
+scrot
