@@ -2,7 +2,7 @@
 ncdu
 
 # image viewer
-imv-x11
+imv
 
 # video player
 mpv
