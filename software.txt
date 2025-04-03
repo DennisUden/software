@@ -40,4 +40,4 @@ qalc
 remmina
 
 # screenshot
-scrot
+ksnip
